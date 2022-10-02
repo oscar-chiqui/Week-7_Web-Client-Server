@@ -1,0 +1,16 @@
+body {
+    background: #287ab8;
+    color: #ffffff;
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+/* The size and border for the map  */
+#iss-map {
+    height: 500px;
+    width: 700px;
+    border: 2px black solid;
+}
