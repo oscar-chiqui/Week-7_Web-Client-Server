@@ -9,4 +9,5 @@ Capital city game ( part 2 )
 
 https://github.com/mctc-itec/lab-7-capital-city-quiz-oscar-chiqui
 
-live Versions link : 
+
+live Versions link : https://oscar-chiqui.github.io/Week-7_Web-Client-Server/
